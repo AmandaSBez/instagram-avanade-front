@@ -21,7 +21,7 @@ main {
 .login {
     width: 300px;
     border: 1px solid #ccc;
-    padding: 40px 20px;
+    padding: 30px 20px;
     margin: 30px;
     text-align: center;
 }
@@ -53,6 +53,7 @@ main {
     text-align: center;
     font-size: 13px;
     margin-top: 20px;
+    padding: 10px;
 }
 
 a {
@@ -63,4 +64,10 @@ a {
 .termos {
     text-align: center;
     font-size: 11px;
+}
+
+#btn_cadastrar {
+    padding: 10px;
+    align-items: center;
+    margin-bottom: 5px;
 }
