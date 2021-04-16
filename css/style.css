@@ -120,19 +120,20 @@ h3 {
 
 .info_post {
     display: flex;
-    padding-left: 5%;
+    padding-left: 5.8%;
+    height: 30px;
     align-items: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, sans-serif;
     font-size: 90%;
 }
 
 .info_post img {
-    padding-left: 10%;
+    padding-left: 16%;
     padding-right: 0.5%;
 }
 
 .info_post p {
-    font-size: 15px;
+    font-size: 14px;
 }
 
 #likes {
@@ -143,6 +144,7 @@ h3 {
 
 #data_post {
     color: rgb(148, 148, 148);
+    font-size: 92%;
 }
 
 .lista_cmt li {
@@ -158,5 +160,6 @@ h3 {
 .add_cmt textarea{
     width: 100%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, sans-serif;
+    border: 1px solid #ccc;
 }
 
