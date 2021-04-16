@@ -5,8 +5,8 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, sans-serif;
    /* font-family: Arial, sans-serif;  usa arial, se nao tiver usa sans-serif */
-    background-color: #fafafa;
-    background-image: linear-gradient(to bottom right, rgba(236, 236, 236, 0.952),  rgb(255, 255, 255));
+    background-color: rgb(255, 255, 255);
+    /* background-image: linear-gradient(to bottom right, rgba(236, 236, 236, 0.952),  rgb(255, 255, 255)); */
 }
 
 main {
